@@ -1,0 +1,1 @@
+I will be entering all examples of code I worked on in regards to this project here. 0.02 is the first example that I consider even remotely functional as before that it was only me practicing what I learned in Coursera.
